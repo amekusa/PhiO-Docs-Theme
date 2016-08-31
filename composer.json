@@ -1,9 +1,10 @@
 {
-	"name": "apigen/theme-bootstrap",
-	"description": "Twitter Bootstrap theme for ApiGen",
-	"homepage": "http://apigen.org/",
+	"name": "amekusa/theme-phio",
+	"description": "ApiGen theme for PhiO",
+	"homepage": "https://amekusa.github.io/PhiO/",
 	"license": "MIT",
 	"authors": [
+		{ "name": "amekusa", "email": "post@amekusa.com" },
 		{ "name": "Tomáš Votruba", "email": "tomas.vot@gmail.com" },
 		{ "name": "Olivier Laviale", "homepage": "https://github.com/olvlvl" }
 	],
