@@ -21,5 +21,17 @@
   "bugs": {
     "url": "https://github.com/amekusa/PhiODocsTheme/issues"
   },
-  "homepage": "https://github.com/amekusa/PhiODocsTheme#readme"
+  "homepage": "https://github.com/amekusa/PhiODocsTheme#readme",
+  "devDependencies": {
+    "del": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-css-purge": "*",
+    "gulp-if": "*",
+    "gulp-less": "*",
+    "gulp-load-plugins": "*",
+    "gulp-clean-css": "*",
+    "gulp-rename": "*",
+    "gulp-sourcemaps": "*"
+  }
 }
