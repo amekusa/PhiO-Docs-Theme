@@ -1,0 +1,37 @@
+{
+  "name": "theme-phio",
+  "version": "1.0.0",
+  "description": "ApiGen theme for PhiO",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amekusa/PhiODocsTheme.git"
+  },
+  "keywords": [
+    "apigen",
+    "php",
+    "docs",
+    "bootstrap"
+  ],
+  "author": "amekusa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amekusa/PhiODocsTheme/issues"
+  },
+  "homepage": "https://github.com/amekusa/PhiODocsTheme#readme",
+  "devDependencies": {
+    "del": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-css-purge": "*",
+    "gulp-if": "*",
+    "gulp-less": "*",
+    "gulp-load-plugins": "*",
+    "gulp-clean-css": "*",
+    "gulp-rename": "*",
+    "gulp-sourcemaps": "*"
+  }
+}
